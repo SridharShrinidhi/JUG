@@ -81,3 +81,7 @@ h1 {
 main a {
   text-decoration: none;
 }
+
+.current, li:hover {
+  background-color: #8b7b8b;
+}
